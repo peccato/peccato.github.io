@@ -1,0 +1,87 @@
+@import url('https://fonts.cdnfonts.com/css/bubblegum-sans');
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, b, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+body {
+  background:url('../img/1.jpg');
+  background-size:cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+.fundo-t{
+  background-color: rgba(10,10,10,0.7);
+}
+
+.
+.table-rounded{
+	border-radius: 5px;
+}
+.thclasse{
+  font-family: 'Bubblegum Sans', sans-serif;
+  background-color: #000;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+
+  line-height: 30px;
+  height: 60px;
+  font-size: 22px;
+}
+
+.contain{
+  width: 80%;
+  margin: 0 auto;
+  padding:50px;
+  border-radius: 10px;
+}
+
+.h1title{
+font-family: 'Bubblegum Sans', sans-serif;
+                             
+ align-self: center;
+ color:white;
+ font-weight: bold;
+ font-size: 40px;
+ text-shadow: -2px 0px 5px rgba(128, 24, 128, 1);
+}
+
+.mhead{
+  width: 100%;
+  text-align: right;
+font-family: 'Bubblegum Sans', sans-serif;
+margin-right: 0;                        
+ align-self: right;
+ color:white;
+ font-weight: bold;
+ font-size: 15px;
+ padding-right: 15px;
+ text-shadow: -2px 0px 5px rgba(128, 24, 128, 1);
+}
+
+
+
+.runes{
+  width: 25px;
+}
+td{
+  min-width: 100px;
+}
